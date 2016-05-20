@@ -1,0 +1,19 @@
+{
+  "name": "weekend_challenge_3",
+  "version": "1.0.0",
+  "description": "The worlds most inefficient calculator/ the worlds most awesome server teaching experience",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "Daniel \"Chavo\" Chavez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4",
+    "jquery": "^2.2.3",
+    "pg": "^4.5.5"
+  }
+}
